@@ -1,0 +1,113 @@
+body{
+    margin: 0;
+}
+
+.f1{
+    margin:5px;
+    width: 255px;
+    height:300px;
+}
+
+.f1 img{
+    height:225px; 
+    width:250px;
+}
+.f1 button{
+    height:40px;
+    width:140px;
+    font-size:20px;
+    font-weight: 500;
+}
+.container{
+    display:flex;
+}
+
+.f1 button{
+    background-color: black;
+    color: white;
+}
+.footer{
+    background-color: rgba(129, 148, 140, 0.363);
+}
+footer img{
+    height: 120px;
+    width:250px;
+    margin-left:50px;
+}
+.footer1 ul li h2{
+    font-weight: 600;
+}
+.footer1 ul li a{
+    text-decoration: none;
+    color:black;
+    size: 19px;
+}
+.footer1 ul{
+    list-style:none;
+}
+.links{
+    display:flex;
+    padding: 20px;
+}
+.footer2 ul li h2{
+    font-weight: 600;
+}
+.footer2 ul li a{
+    text-decoration: none;
+    color:black;
+    size:19px;
+}
+.footer2 ul{
+    list-style:none;
+}
+.footer3 ul li h2{
+    font-weight:600;
+}
+.footer3 ul li a{
+    text-decoration:none;
+    color:black;
+    size:19px;
+}
+.footer3 ul{
+    list-style:none;
+}
+.footer4 ul li h2{
+    font-weight: 600;
+}
+.footer4 ul li a{
+    text-decoration:none;
+    color:black;
+    size:19px;
+}
+.footer4 ul{
+    list-style:none;
+}
+.footer5 ul li h2{
+    font-weight: 600;
+}
+.footer5 ul li a{
+    text-decoration:none;
+    color:black;
+    size:19px;
+}
+.footer5 ul{
+    list-style:none;
+}
+.footer6 ul  {
+    list-style:none;
+}
+#appstore{
+    height: 80px;
+    width: 230px;
+    
+}
+.socialmedia{
+    background-color: black;
+    display:flex;
+    justify-content: center;
+}
+
+.socialmedia div img{
+    height:40px;
+    width:40px;
+}
